@@ -108,11 +108,12 @@ subplot(3,2,6); plot(t,d6); title("Demod 6");
 ```
 
 ## OUTPUT WAVEFORM
-<img width="1855" height="990" alt="FDM message signals" src="https://github.com/user-attachments/assets/e4f4c65d-1d31-43a5-9554-d9afc5f2836d" />
+<img width="1919" height="1021" alt="FDM message signal" src="https://github.com/user-attachments/assets/447bc220-03c6-44c1-8d3a-6a09c04b9b7d" />
 
-<img width="1838" height="970" alt="FDM modulated signal" src="https://github.com/user-attachments/assets/31a7a8a5-b1fc-4305-b8e0-6f35e2eeca6f" />
+<img width="1919" height="1019" alt="FDM Modulated signal" src="https://github.com/user-attachments/assets/cbded730-47da-4ad2-ae74-ed96af9ccfb8" />
 
-<img width="1839" height="979" alt="FDM Demodulated signals" src="https://github.com/user-attachments/assets/6ddaba2b-97e2-44b2-9ecd-401f8c16775f" />
+<img width="1919" height="999" alt="FDM Demodulated signal" src="https://github.com/user-attachments/assets/26412906-1d07-4f99-82e6-e0624a7d44e4" />
+
 
 ## CALCULATION
 
