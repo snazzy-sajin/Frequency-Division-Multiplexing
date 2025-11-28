@@ -35,12 +35,12 @@ close;
 fs = 50000;
 t = 0:1/fs:0.05;
 
-m1 = 6.4*sin(2*%pi*492*t);
-m2 = 6.5*sin(2*%pi*502*t);
-m3 = 6.6*sin(2*%pi*512*t);
-m4 = 6.7*sin(2*%pi*522*t);
-m5 = 6.8*sin(2*%pi*532*t);
-m6 = 6.9*sin(2*%pi*542*t);
+m1 = 6.5*sin(2*%pi*492*t);
+m2 = 6.6*sin(2*%pi*502*t);
+m3 = 6.7*sin(2*%pi*512*t);
+m4 = 6.8*sin(2*%pi*522*t);
+m5 = 6.9*sin(2*%pi*532*t);
+m6 = 7*sin(2*%pi*542*t);
 
 c1 = cos(2*%pi*2000*t);
 c2 = cos(2*%pi*4000*t);
@@ -108,17 +108,13 @@ subplot(3,2,6); plot(t,d6); title("Demod 6");
 ```
 
 ## OUTPUT WAVEFORM
-<img width="1914" height="1039" alt="image" src="https://github.com/user-attachments/assets/ecea08a7-06cf-4868-b35c-d4347a8ae2ec" />
+<img width="1855" height="990" alt="FDM message signals" src="https://github.com/user-attachments/assets/e4f4c65d-1d31-43a5-9554-d9afc5f2836d" />
 
-<img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/a04f310f-8b82-4106-8c8b-6aff895e91a7" />
+<img width="1838" height="970" alt="FDM modulated signal" src="https://github.com/user-attachments/assets/31a7a8a5-b1fc-4305-b8e0-6f35e2eeca6f" />
 
-<img width="1919" height="1049" alt="image" src="https://github.com/user-attachments/assets/9b12f532-a326-46fa-8da4-940baf49d44a" />
+<img width="1839" height="979" alt="FDM Demodulated signals" src="https://github.com/user-attachments/assets/6ddaba2b-97e2-44b2-9ecd-401f8c16775f" />
 
 ## CALCULATION
-
-![WhatsApp Image 2025-11-25 at 12 49 14_45796b36](https://github.com/user-attachments/assets/21ad98ab-0942-4165-8a61-b3ecc14ae5e6)
-
-![WhatsApp Image 2025-11-25 at 12 34 36_833aab74](https://github.com/user-attachments/assets/6f7bc9c4-3bae-42d6-a027-2f49a0c9de98)
 
 
 ## RESULT
