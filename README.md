@@ -116,6 +116,8 @@ subplot(3,2,6); plot(t,d6); title("Demod 6");
 
 
 ## CALCULATION
+<img width="453" height="783" alt="image" src="https://github.com/user-attachments/assets/c6ba7adc-8d2e-44da-a8ae-dff0fedb455d" />
+<img width="476" height="703" alt="image" src="https://github.com/user-attachments/assets/aa7e849f-697e-44b8-bbba-29fffd583814" />
 
 
 ## RESULT
